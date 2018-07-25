@@ -1,0 +1,13 @@
+html {
+    background: yellow;
+
+}
+/* Этот код означает что можно сделать бэкграунд страницы любым цветом */
+
+
+html {
+    font-family: 'PT Sans Caption', sans-serif; 
+    font-size: 16px;
+    line-height: 1.7;
+
+}
