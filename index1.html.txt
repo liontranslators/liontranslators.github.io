@@ -1,0 +1,901 @@
+
+!DOCTYPE html
+html xmlns=httpwww.w3.org1999xhtml lang=en-US
+html
+head
+
+script(function(w,d,s,l,i){w[l]=w[l][];w[l].push({'gtm.start'new Date().getTime(),event'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer''&l='+l'';j.async=true;j.src= 'httpswww.googletagmanager.comgtm.jsid='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-N6LP7DX');script
+
+meta charset=UTF-8 
+meta name=Distribution content=Singapore 
+meta name=Robots content=INDEX,FOLLOW 
+meta name=Revisit-after content=1 Day 
+meta name=author content=Translation Service Agency Singapore 
+meta name=Theme Version content=3.8.1 
+meta name=Child Theme content=false 
+meta name=viewport content=width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0 
+title
+             Translation Services Agency - Translation Company  Lingua Technologies        title
+link rel=shortcut icon href=httptranslationsingapore.comwp-contentuploads201407translation-sg.png 
+link rel=apple-touch-icon-precomposed href=httpwww.translationsingapore.httpwww.translationsingapore.comwp-adminadmin.phppage=masterkey#comwp-contentuploads201406logo.png
+link rel=apple-touch-icon-precomposed sizes=114x114 href=httpwww.translationsingapore.comwp-contentuploads201406logo.png
+link rel=apple-touch-icon-precomposed sizes=72x72 href=httpwww.translationsingapore.comwp-contentuploads201406logo.png
+link rel=apple-touch-icon-precomposed sizes=144x144 href=httpwww.translationsingapore.comwp-contentuploads201406logo.png
+link rel=alternate type=applicationrss+xml title=Translation Singapore RSS Feed href=httpwww.translationsingapore.comfeed
+link rel=alternate type=applicationatom+xml title=Translation Singapore Atom Feed href=httpwww.translationsingapore.comfeedatom
+link rel=pingback href=httpwww.translationsingapore.comxmlrpc.php
+!--[if lt IE 9]
+         script src=httpwww.translationsingapore.comwp-contentthemesTranslateSingaporejshtml5shiv.js type=textjavascriptscript
+         ![endif]--
+!--[if IE 7 ]
+               link href=httpwww.translationsingapore.comwp-contentthemesTranslateSingaporestylesheetcssie7.css media=screen rel=stylesheet type=textcss 
+               ![endif]--
+!--[if IE 8 ]
+               link href=httpwww.translationsingapore.comwp-contentthemesTranslateSingaporestylesheetcssie8.css media=screen rel=stylesheet type=textcss 
+         ![endif]--
+script type=textjavascript
+         var mk_header_parallax, mk_responsive_nav_width, mk_header_sticky, mk_header_parallax, mk_banner_parallax, mk_page_parallax, mk_footer_parallax, mk_body_parallax;
+          var mk_images_dir = httpwww.translationsingapore.comwp-contentthemesTranslateSingaporeimages,
+          mk_theme_js_path = httpwww.translationsingapore.comwp-contentthemesTranslateSingaporejs,
+          mk_responsive_nav_width = 1140,
+          mk_grid_width = 1160,
+          mk_smooth_scroll = true,
+          mk_header_sticky = true;
+                    var mk_header_parallax = false,
+          mk_banner_parallax = false,
+          mk_page_parallax = false,
+          mk_footer_parallax = false,
+          mk_body_parallax = false,
+          mk_no_more_posts = No More Posts;
+                    function is_touch_device() {
+              return ('ontouchstart' in document.documentElement);
+          }
+          
+         script
+
+script async src=httpswww.googletagmanager.comgtagjsid=AW-829984142script
+script
+ window.dataLayer = window.dataLayer  [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+
+ gtag('config', 'AW-829984142');
+script
+
+
+script async src=httpswww.googletagmanager.comgtagjsid=UA-85178696-1script
+
+meta name=description content=Lingua Technologies International is a professional translation service agency for high quality web translation services, voice-over services, transcriptions 
+meta name=keywords content=translation service agency, translation services Singapore, singapore translation services 
+meta name=google-site-verification content=ZmBS7zgGrEAKCJ1v-QarI63d5b9udXfw4tYNsLqn_sA 
+link rel=canonical href=httpwww.translationsingapore.com 
+
+
+meta name=description content=As a top-tier translation company in Singapore, Lingua helps transform websites into powerful platforms that deliver unmatched user experiences. We have been helping organizations communicate effectively with their audiences for nearly two decades by providing professional translation in Singapore and beyond. 
+meta name=keywords content=Translation Company, Interpreting Services, Voice Over Services, Transcription 
+link rel=canonical href=httpwww.translationsingapore.com 
+script type='applicationld+json'{@contexthttpschema.org,@typeWebSite,@id#website,urlhttpwww.translationsingapore.com,nameTranslation Singapore,potentialAction{@typeSearchAction,targethttpwww.translationsingapore.coms={search_term_string},query-inputrequired name=search_term_string}}script
+
+link rel='dns-prefetch' href='fonts.googleapis.com' 
+link rel='dns-prefetch' href='s.w.org' 
+link rel=alternate type=applicationrss+xml title=Translation Singapore &raquo; Feed href=httpwww.translationsingapore.comfeed 
+link rel=alternate type=applicationrss+xml title=Translation Singapore &raquo; Comments Feed href=httpwww.translationsingapore.comcommentsfeed 
+link rel=alternate type=applicationrss+xml title=Translation Singapore &raquo; Homepage Comments Feed href=httpwww.translationsingapore.comhomepagefeed 
+script type=textjavascript
+			window._wpemojiSettings = {baseUrlhttpss.w.orgimagescoreemoji2.372x72,ext.png,svgUrlhttpss.w.orgimagescoreemoji2.3svg,svgExt.svg,source{concatemojihttpwww.translationsingapore.comwp-includesjswp-emoji-release.min.jsver=4.8.7}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline=top,k.font=600 32px Arial,a){caseflagreturn k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);caseemoji4return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement(script);c.src=a,c.defer=c.type=textjavascript,b.getElementsByTagName(head)[0].appendChild(c)}var f,g,h,i,j=b.createElement(canvas),k=j.getContext&&j.getContext(2d);for(i=Array(flag,emoji4),c.supports={everything!0,everythingExceptFlag!0},h=0;hi.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],flag!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything(g=function(){c.readyCallback()},b.addEventListener(b.addEventListener(DOMContentLoaded,g,!1),a.addEventListener(load,g,!1))(a.attachEvent(onload,g),b.attachEvent(onreadystatechange,function(){complete===b.readyState&&c.readyCallback()})),f=c.source{},f.concatemojie(f.concatemoji)f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		script
+style type=textcss
+img.wp-smiley,
+img.emoji {
+	display inline !important;
+	border none !important;
+	box-shadow none !important;
+	height 1em !important;
+	width 1em !important;
+	margin 0 .07em !important;
+	vertical-align -0.1em !important;
+	background none !important;
+	padding 0 !important;
+}
+style
+link rel='stylesheet' id='mk-style-css' href='httpwww.translationsingapore.comwp-contentthemesTranslateSingaporestyle.cssver=4.8.7' type='textcss' media='all' 
+link rel='stylesheet' id='google-font-api-special-1-css' href='fonts.googleapis.comcssfamily=Open+Sans%3A400%2C300%2C600%2C700%2C800&#038;ver=4.8.7' type='textcss' media='all' 
+link rel='stylesheet' id='css-iLightbox-css' href='httpwww.translationsingapore.comwp-contentthemesTranslateSingaporestylesheeti-lightboxilightbox-style.cssver=4.8.7' type='textcss' media='all' 
+link rel='stylesheet' id='layerslider_css-css' href='httpwww.translationsingapore.comwp-contentpluginsLayerSlidercsslayerslider.cssver=4.6.5' type='textcss' media='all' 
+link rel='stylesheet' id='contact-form-7-css' href='httpwww.translationsingapore.comwp-contentpluginscontact-form-7includescssstyles.cssver=4.8' type='textcss' media='all' 
+link rel='stylesheet' id='qpp_style-css' href='httpwww.translationsingapore.comwp-contentpluginsquick-paypal-paymentsquick-paypal-payments.cssver=4.8.7' type='textcss' media='all' 
+link rel='stylesheet' id='qpp_custom-css' href='httpwww.translationsingapore.comwp-contentpluginsquick-paypal-paymentsquick-paypal-payments-custom.cssver=4.8.7' type='textcss' media='all' 
+link rel='stylesheet' id='wpmu-wpmu-ui-3-min-css-css' href='httpwww.translationsingapore.comwp-contentpluginswordpress-popupincexternalwpmu-libcsswpmu-ui.3.min.cssver=4.8.7' type='textcss' media='all' 
+link rel='stylesheet' id='wpmu-animate-3-min-css-css' href='httpwww.translationsingapore.comwp-contentpluginswordpress-popupincexternalwpmu-libcssanimate.3.min.cssver=4.8.7' type='textcss' media='all' 
+script type='textjavascript' src='httpwww.translationsingapore.comwp-includesjsjqueryjquery.jsver=1.12.4'script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-includesjsjqueryjquery-migrate.min.jsver=1.4.1'script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-includesjsjqueryjquery.form.min.jsver=3.37.0'script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-contentpluginse-newsletteremail-newsletter-filesjswidget_script.jsver=4.8.7'script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-contentpluginsLayerSliderjslayerslider.kreaturamedia.jquery.jsver=4.6.5'script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-contentpluginsLayerSliderjsjquery-easing-1.3.jsver=1.3.0'script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-contentpluginsLayerSliderjsjquerytransit.jsver=0.9.9'script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-contentpluginsLayerSliderjslayerslider.transitions.jsver=4.6.5'script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-contentpluginsquick-paypal-paymentsquick-paypal-payments.jsver=4.8.7'script
+link rel='httpsapi.w.org' href='httpwww.translationsingapore.comwp-json' 
+link rel=EditURI type=applicationrsd+xml title=RSD href=httpwww.translationsingapore.comxmlrpc.phprsd 
+link rel=wlwmanifest type=applicationwlwmanifest+xml href=httpwww.translationsingapore.comwp-includeswlwmanifest.xml 
+meta name=generator content=WordPress 4.8.7 
+link rel='shortlink' href='httpwww.translationsingapore.com' 
+link rel=alternate type=applicationjson+oembed href=httpwww.translationsingapore.comwp-jsonoembed1.0embedurl=http%3A%2F%2Fwww.translationsingapore.com%2F 
+link rel=alternate type=textxml+oembed href=httpwww.translationsingapore.comwp-jsonoembed1.0embedurl=http%3A%2F%2Fwww.translationsingapore.com%2F&#038;format=xml 
+script type=textjavascriptvar ajaxurl = httpwww.translationsingapore.comwp-adminadmin-ajax.phpscript
+style type='textcss' media='all'body {}body {font-family Open Sans }body{background-color#fff; }#mk-header{background-color#efefef;background-imageurl(httpseoagencyworksite.comtranslationsingaporewp-contentthemesTranslateSingaporeimagespattern29.png);background-repeatrepeat;background-positionright center;}.mk-header-bg{background-color#fff; }.mk-header-toolbar{background-color #ffffff;}#theme-page {background-color#fff; }#mk-footer {background-color#232323;background-imageurl(httpseoagencyworksite.comtranslationsingaporewp-contentuploads201406img-globe.png);background-repeatno-repeat;background-positionleft top;}#sub-footer {background-color #202020;}#mk-boxed-layout{  -webkit-box-shadow 0 0 3px rgba(0, 0, 0, 0.2);  -moz-box-shadow 0 0 3px rgba(0, 0, 0, 0.2);  box-shadow 0 0 3px rgba(0, 0, 0, 0.2);}.mk-uc-header{ }.mk-tabs-panes,.mk-news-tab .mk-tabs-tabs li.ui-tabs-active a,.mk-divider .divider-go-top,.ajax-container,.mk-fancy-title.pattern-style span, .mk-portfolio-view-all, .mk-woo-view-all, .mk-blog-view-all {background-color #fff;}.mk-header-bg {  -webkit-opacity 1;  -moz-opacity 1;  -o-opacity 1;  opacity 1;}.mk-fixed .mk-header-bg {  -webkit-opacity 1;  -moz-opacity 1;  -o-opacity 1;  opacity 1;}.mk-header-inner {border-bottom1px solid #e8e8e8 !important;}#mk-header{border-bottom1px solid #ffffff;}body{font-size 13px;color #252525;font-weight normal;line-height 22px;}p {font-size 13px;color #252525;}a {color #333333;}ahover {color #6fb0e0;}#theme-page strong {color #6fb0e0;}#theme-page h1{font-size 36px;color #393836;font-weight bold;text-transform uppercase;}#theme-page h2{font-size 30px;color #393836;font-weight bold;text-transform uppercase;}#theme-page h3{font-size 24px;color #393836;font-weight bold;text-transform uppercase;}#theme-page h4{font-size 18px;color #393836;font-weight bold;text-transform uppercase;}#theme-page h5{font-size 16px;color #393836;font-weight bold;text-transform uppercase;}#theme-page h6{font-size 14px;color #393836;font-weight normal;text-transform uppercase;}.page-introduce-title {font-size 34px;color #050505;text-transform none;font-weight lighter;}.page-introduce-subtitle {font-size 14px;line-height 100%;color #6fb0e0;font-size 14px;text-transform none;}-webkit-selection{background-color #6fb0e0;color#fff;}-moz-selection{background-color #6fb0e0;color#fff;}selection{background-color #6fb0e0;color#fff;}#mk-sidebar, #mk-sidebar p{font-size 12px;color #666666;font-weight normal;}#mk-sidebar .widgettitle {text-transform uppercase;font-size 14px;color #333333;font-weight bolder;}#mk-sidebar .widgettitle a {color #333333;}#mk-sidebar .widget a{color #333333;}#mk-footer, #mk-footer p{font-size 12px;color #808080;font-weight normal;}#mk-footer .widgettitle{text-transform uppercase;font-size 14px;color #fff;font-weight 800;}#mk-footer .widgettitle a{color #fff;}#mk-footer .widget a{color #999999;}#mk-sidebar .widget ahover, #mk-footer .widget ahover {color #6fb0e0;}.mk-grid{max-width 1160px;}.mk-header-nav-container, .mk-classic-menu-wrapper {width 1160px;}.theme-page-wrapper #mk-sidebar.mk-builtin {width 27%;}.theme-page-wrapper.right-layout .theme-content, .theme-page-wrapper.left-layout .theme-content {width 73%;}.mk-boxed-enabled #mk-boxed-layout, .mk-boxed-enabled #mk-boxed-layout .mk-header-inner.mk-fixed {max-width 1220px;}.mk-boxed-enabled #mk-boxed-layout .mk-header-inner.mk-fixed, .mk-boxed-enabled #mk-boxed-layout .classic-style-nav .mk-header-nav-container.mk-fixed {width 1220px !important;leftauto !important;}.modern-style-nav .mk-header-inner .main-navigation-ul  li  a, .modern-style-nav .mk-header-inner .mk-header-start-tour,.mk-header-inner #mk-header-search,.modern-style-nav .mk-header-inner,.modern-style-nav .mk-search-trigger{height 150px;line-height150px;}.mk-header-nav-container{text-alignright;}@media handheld, only screen and (max-width 1160px){.header-grid.mk-grid .header-logo.left-logo{left 15px !important;}.header-grid.mk-grid .header-logo.right-logo, .mk-header-right {right 15px !important;}}@media handheld, only screen and (max-width 960px){.theme-page-wrapper .theme-content{width 100% !important;float none !important;}.theme-page-wrapper {padding-right20px !important;padding-left 20px !important;}.theme-page-wrapper .theme-content {padding25px 0 !important;}.theme-page-wrapper #mk-sidebar  {width 100% !important;float none !important;padding 0 !important;}.theme-page-wrapper #mk-sidebar .sidebar-wrapper {padding20px 0 !important;}}@media handheld, only screen and (max-width 1160px){.mk-go-top, .mk-quick-contact-wrapper{bottom70px !important;}.mk-grid {width 100%;}.mk-padding-wrapper {padding 0 20px;} }#mk-toolbar-navigation ul li a, .mk-language-nav  a, .mk-header-login .mk-login-link, .mk-subscribe-link, .mk-checkout-btn,.mk-header-tagline a,.header-toolbar-contact a,#mk-toolbar-navigation ul li ahover, .mk-language-nav  ahover, .mk-header-login .mk-login-linkhover, .mk-subscribe-linkhover, .mk-checkout-btnhover,.mk-header-tagline ahover{color#999999;}#mk-toolbar-navigation ul li a {border-right1px solid #999999;}.mk-header-tagline, .header-toolbar-contact, .mk-header-date{color#999999;}#mk-header-social a i {color#999999;}.classic-style-nav .header-logo{height 150px !important;}.classic-style-nav .mk-header-inner {line-height150px;padding-top150px;}.mk-header-nav-container{background-color ;}.mk-header-start-tour {font-size 14px;color #333;}.mk-header-start-tourhover{color #333;}.mk-classic-nav-bg {background-color#fff; }.mk-search-trigger,.shoping-cart-link i,.mk-nav-responsive-link i,.mk-toolbar-resposnive-icon i{color #444444;}#mk-header-searchform .text-input {background-color !important;color #c7c7c7;}#mk-header-searchform span i{color #c7c7c7;}#mk-header-searchform .text-input-webkit-input-placeholder{color #c7c7c7;}#mk-header-searchform .text-input-ms-input-placeholder{color #c7c7c7;} #mk-header-searchform .text-input-moz-placeholder{color #c7c7c7;}.main-navigation-ul  li  a, #mk-responsive-nav .mk-nav-arrow {color #444444;background-color ;font-size 12px;font-weight bold;padding-right25px;padding-left25px;}.main-navigation-ul li  ahover,.main-navigation-ul lihover  a,.main-navigation-ul li.current-menu-item  a,.main-navigation-ul li.current-menu-ancestor  a{background-color #fff;background-color rgba(255,255,255,0);color #6fb0e0;}.main-navigation-ul  lihover  a,.main-navigation-ul  li.current-menu-item  a,.main-navigation-ul  li.current-menu-ancestor  a{border-top-color#6fb0e0;}.main-navigation-ul li .sub {  border-top3px solid #6fb0e0;}#mk-main-navigation ul li ul{background-color #fff;}#mk-main-navigation ul li ul li a{color #444444;}#mk-main-navigation ul li ul li ahover{color #6fb0e0 !important;}.main-navigation-ul li ul li ahover,.main-navigation-ul li ul lihover  a,.main-navigation-ul ul li ahover,.main-navigation-ul ul lihover  a,.main-navigation-ul ul li.current-menu-item  a{background-color#f5f5f5 !important;  color #6fb0e0 !important;}.mk-search-triggerhover{color #6fb0e0;}@media handheld, only screen and (max-width 1140px){.mk-header-nav-container {width auto !important;displaynone;}.mk-header-right {right70px !important;}.mk-header-inner #mk-header-search {displaynone !important;}#mk-header-search{padding-bottom 10px !important;}#mk-header-searchform span .text-input{width 100% !important;}.classic-style-nav .header-logo .center-logo{    text-align right !important;}.classic-style-nav .header-logo .center-logo a{    margin 0 !important;}.header-logo{    height 150px !important;}.mk-header-inner{padding-top0 !important;}.header-logo{positionrelative !important;rightauto !important;leftauto !important;floatleft !important;margin-left10px;text-alignleft;}.shopping-cart-header{margin0 20px 0 0 !important;}#mk-responsive-nav {background-color#fff !important;}.mk-header-nav-container #mk-responsive-nav{visibility hidden;}.mk-responsive .mk-header-nav-container #mk-main-navigation{visibility visible;}#mk-responsive-nav li ul li .megamenu-titlehover, #mk-responsive-nav li ul li .megamenu-title, #mk-responsive-nav li a, #mk-responsive-nav li ul li ahover {  color#444444 !important;}.mk-mega-icon{displaynone !important;}.mk-header-bg{zoom1 !important;filteralpha(opacity=100) !important;opacity1 !important;}.mk-nav-responsive-link{displayblock !important;}.mk-header-nav-container{height100%;z-index200;}#mk-main-navigation{positionrelative;z-index2;}.mk_megamenu_columns_2, .mk_megamenu_columns_3, .mk_megamenu_columns_4, .mk_megamenu_columns_5, .mk_megamenu_columns_6 {width100% !important;}}.comment-reply a,.mk-tabs .mk-tabs-tabs li.ui-tabs-active a  i,.mk-toggle .mk-toggle-title.active-togglebefore,.introduce-simple-title,.rating-star .rated,.mk-accordion.fancy-style .mk-accordion-tab.currentbefore,.mk-testimonial-author,.modern-style .mk-testimonial-company,#wp-calendar td#today,.mk-tweet-list a,.widget_testimonials .testimonial-slider .testimonial-author,.news-full-without-image .news-categories span,.news-half-without-image .news-categories span,.news-fourth-without-image .news-categories span,.mk-read-more,.news-single-social li a,.portfolio-widget-cats,.portfolio-carousel-cats,.blog-showcase-more,.simple-style .mk-employee-itemhover .team-member-position, .mk-readmore, .about-author-name,.filter-portfolio li ahover,.mk-portfolio-classic-item .portfolio-categories a,.register-login-links ahover,#mk-language-navigation ul li ahover, #mk-language-navigation ul li.current-menu-item  a,.not-found-subtitle,.mk-mini-callout a,.mk-quick-contact-wrapper h4,.search-loop-meta a,.new-tab-readmore,.mk-news-tab .mk-tabs-tabs li.ui-tabs-active a,.mk-tooltip,.mk-search-permnalink,.divider-go-tophover,.widget-sub-navigation ul li ahover,.mk-toggle-title.active-toggle i,.mk-accordion-tab.current i,.monocolor.pricing-table .pricing-price span,#mk-footer .widget_posts_lists ul li .post-list-meta time,.mk-footer-tweets .tweet-username,.quantity .plushover,.quantity .minushover,.mk-woo-tabs .mk-tabs-tabs li.ui-state-active a,.product .add_to_cart_button i,.blog-modern-commenthover, .blog-modern-sharehover,.mk-tabs.simple-style .mk-tabs-tabs li.ui-tabs-active a{color #6fb0e0 !important;}.image-hover-overlay,.newspaper-portfolio,.single-post-tags ahover,.similar-posts-wrapper .post-thumbnailhover  .overlay-pattern,.portfolio-logo-section,.post-list-document .post-type-thumbhover,#cboxTitle,#cboxPrevious,#cboxNext,#cboxClose,.comment-form-button, .mk-dropcaps.fancy-style,.mk-image-overlay,.pinterest-item-overlay,.news-full-with-image .news-categories span,.news-half-with-image .news-categories span,.news-fourth-with-image .news-categories span,.widget-portfolio-overlay,.portfolio-carousel-overlay,.blog-carousel-overlay,.mk-classic-comments span,.mk-similiar-overlay,.mk-skin-button,.mk-flex-caption .flex-desc span,.mk-icon-box .mk-icon-wrapper ihover,.mk-quick-contact-linkhover,.quick-contact-active.mk-quick-contact-link,.mk-fancy-table th,.mk-tooltip .tooltip-text,.mk-tooltip .tooltip-textafter,.wpcf7-submit,.ui-slider-handle,.widget_price_filter .ui-slider-range,.shop-skin-btn,#review_form_wrapper input[type=submit],#mk-nav-search-wrapper form ihover,form.ajax-search-complete i,.blog-modern-btn,.shoping-cart-link span,.showcase-blog-overlay,.gform_button[type=submit],.button.alt{background-color #6fb0e0 !important;}.mk-testimonial-image img,.testimonial-author-image,  .mk-circle-image span{-webkit-box-shadow0 0 0 1px #6fb0e0;-moz-box-shadow0 0 0 1px #6fb0e0;box-shadow0 0 0 1px #6fb0e0;}.mk-blockquote.line-style,.bypostauthor .comment-content,.bypostauthor .comment-contentafter,.mk-tabs.simple-style .mk-tabs-tabs li.ui-tabs-active a{border-color #6fb0e0 !important;}.news-full-with-image .news-categories span,.news-half-with-image .news-categories span,.news-fourth-with-image .news-categories span,.mk-flex-caption .flex-desc span{box-shadow 8px 0 0 #6fb0e0, -8px 0 0 #6fb0e0;}.monocolor.pricing-table .pricing-cols .pricing-col.featured-plan{border1px solid #6fb0e0;}.mk-skin-button.three-dimension, .wpcf7-submit{box-shadow 0px 3px 0px 0px #598db3;}.mk-skin-button.three-dimensionactive, .wpcf7-submitactive{box-shadow 0px 1px 0px 0px #598db3;}.mk-footer-copyright, #mk-footer-navigation li a{color #fff;}.mk-woocommerce-main-image imghover, .mk-single-thumbnails imghover{border1px solid #6fb0e0 !important;}.product-loading-icon{background-colorrgba(111,176,224,0.6);}.theme-content{padding0 !important;}#mk-footer{padding30px 0 0 0 !important;}#mk-footer .mk-padding-wrapper {padding0 !important;}#mk-boxed-layout {    margin-top 0px !important;    margin-bottom 20px !important;}.mk-header-toolbar {    padding 8px 20px !important;}.header-toolbar-contact{floatright;}h2.ls-s-1{background rgba(31,29,29,0.8) !important;color#fff !important;}a.ls-s-1 h2{color#fff !important;}a.ls-s-1hover{text-decorationunderline !important;}@media only screen and (max-device-width 480px) {.header-logo {margin-top20px;margin-left10px;}}style
+
+script
+  window.dataLayer = window.dataLayer  [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-85178696-1');
+script
+script type=textjavascript
+!-- AVANSER Call Tracking [start] --
+(function() {
+	var av = document.createElement('script');
+	av.type = 'textjavascript';
+	av.id = 'AVANSERjs';
+	av.src = ('https' == document.location.protocol  'https'  'http') + 
+		'adriano-sg.avanser.comaa.jst=' + (new Date().getTime());
+	var h = document.getElementsByTagName('head')[0];
+	h.parentNode.appendChild(av);
+})();
+!-- AVANSER Call Tracking [stop] --
+script
+meta name=google-site-verification content=ZmBS7zgGrEAKCJ1v-QarI63d5b9udXfw4tYNsLqn_sA 
+head
+body class=home page-template-default page page-id-6780  main-nav-align-right
+
+noscriptiframe src=httpswww.googletagmanager.comns.htmlid=GTM-N6LP7DX
+height=0 width=0 style=displaynone;visibilityhiddeniframenoscript
+
+div id=mk-boxed-layout
+header id=mk-header data-height=150 data-sticky-height=80 class=modern-style-nav mk-video-holder
+div class=mk-header-toolbar
+div class=mk-grid header-gridspan class=header-toolbar-contacti class=mk-moon-phone-3ispan class=AVANSERnumber+65 6576 0138spanspanspan class=header-toolbar-contacti class=mk-moon-envelopia href=cdn-cgilemail-protection#e98087cfcad8d8dad2cfcad8d8ded2cfcad8d9dcd29bcfcad8dbd8d2cfcadfddd2cfcad8d8dfd2cfcad8d8ddd2cfcad0ded2cfcad8d8d9d2cfcad8d8dcd2cfcad8d9d1d2cfcad0ded2cfcad8d8dfd28086879acfcad8d9dcd287cfcad8d9dad28899cfcad8d8d8d29bcfcad8d9d8d2c7cfcad0d0d2cfcad8d8d8d2cfcad8d9d0d2in&#113;&#117;ir&#121;&#64;&#116;r&#97;n&#115;&#108;&#97;&#116;ion&#115;&#105;&#110;&#103;&#97;&#112;&#111;&#114;e&#46;&#99;o&#109;aspandiv id=mk-header-search
+form class=mk-header-searchform method=get id=mk-header-searchform action=httpwww.translationsingapore.com
+span
+input type=text class=text-input on-close-state value= name=s id=s placeholder=Search.. 
+i class=mk-icon-searchinput value= type=submit class=header-search-btn i
+span
+form
+divdiv id=mk-header-socialullia class=facebook-hover target=_blank href=httpswww.facebook.comlinguatechnologiesi class=mk-jupiter-icon-simple-facebook alt=facebook title=facebookialiuldiv class=clearbothdivdivselect id=languageswitching onchange=bringtomylanguage()option value=httpwww.translationsingapore.comEnglishoptionoption value=httpwww.translationsingapore.combahasaindonesiaBahasa Indonesiaoptionoption value=httpwww.translationsingapore.comdeutschDeutschoptionoption value=httpwww.translationsingapore.comespanolEspanoloptionoption value=httpwww.translationsingapore.comfrancaisFrancaisoptionoption value=httpwww.translationsingapore.com??????optionoption value=httpwww.translationsingapore.com??????optionoption value=httpwww.translationsingapore.com????????optionoption value=httpwww.translationsingapore.com????????optionoption value=httpwww.translationsingapore.com??????????????optionselectdiv div class=clearbothdiv
+div
+div class=mk-header-inner
+div class=mk-header-bg div
+div class=mk-toolbar-resposnive-iconi class=mk-icon-chevron-downidiv
+div class=mk-grid header-grid
+div class=mk-header-nav-container modern-stylenav id=mk-main-navigation class=main_menuul id=menu-header-toolbar class=main-navigation-ulli id=menu-item-8619 class=menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6780 current_page_itema href=httpwww.translationsingapore.comi class=mk-moon-home-6iHomeali
+li id=menu-item-7683 class=menu-item menu-item-type-post_type menu-item-object-page menu-item-has-childrena href=httpwww.translationsingapore.comabout-lingua-technologiesi class=mk-moon-user-2iAbouta
+ul class=sub-menu 
+li id=menu-item-8624 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comabout-lingua-technologiesAbout Lingua Technologiesali
+li id=menu-item-8625 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comgcb-groupGCB Groupali
+ul
+li
+li id=menu-item-8646 class=menu-item menu-item-type-post_type menu-item-object-page menu-item-has-childrena href=httpwww.translationsingapore.comtranslation-localizationi class=mk-moon-share-3iServicesa
+ul class=sub-menu 
+li id=menu-item-8649 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comcertified-translationCertified Translationali
+li id=menu-item-8637 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comtranslation-localizationTranslation &#038; Localizationali
+li id=menu-item-8638 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comdesktop-publishingDesktop Publishingali
+li id=menu-item-8642 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comeditingEditingali
+li id=menu-item-8633 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.cominterpreting-servicesInterpreting Servicesali
+li id=menu-item-8889 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.cominterpretation-equipment-rentalInterpretation Equipment Rentalali
+li id=menu-item-8645 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comtechnical-writingTechnical Writingali
+li id=menu-item-8648 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comtranscriptionTranscriptionali
+li id=menu-item-8636 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comsubtitling-serviceSubtitling Serviceali
+li id=menu-item-10255 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comvoiceover-serviceVoiceover Serviceali
+ul
+li
+li id=menu-item-9658 class=menu-item menu-item-type-post_type menu-item-object-page menu-item-has-childrena href=httpwww.translationsingapore.comtranslation-localizationi class=mk-icon-cogsiSolutionsa
+ul class=sub-menu 
+li id=menu-item-9724 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comiso-17100-certification-for-the-translation-industryISO 17100 Translation Servicesali
+li id=menu-item-8643 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.compre-press-print-managementPre-Press &#038; Print Managementali
+li id=menu-item-8644 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.compublication-adaptationPublication Adaptationali
+li id=menu-item-8635 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comsoftware-translation-localization-servicesSoftware Translation &#038; Localization Servicesali
+li id=menu-item-8647 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comtranslation-asset-management-tamTranslation Asset Management (TAM)ali
+li id=menu-item-11154 class=menu-item menu-item-type-post_type menu-item-object-page menu-item-has-childrena href=httpwww.translationsingapore.comtranslation-solutions-industryTranslation Solutions By Industrya
+ul class=sub-menu 
+li id=menu-item-9729 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comtranslation-and-localization-solution-for-the-banking-and-finance-industryBanking And Finance Industryali
+li id=menu-item-9728 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comtranslation-and-localization-solution-for-the-consumer-electronics-industryConsumer Electronics Industryali
+li id=menu-item-9727 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comtranslation-and-localization-solutions-for-the-information-technology-industryInformation Technology Industryali
+li id=menu-item-9726 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comtranslation-and-localization-solution-for-the-legal-industryLegal Industryali
+li id=menu-item-9725 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comtranslation-and-localization-solution-for-the-pharmaceutical-industryPharmaceutical Industryali
+ul
+li
+li id=menu-item-8634 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comweb-translation-localization-servicesWeb Translation &#038; Localization Servicesali
+ul
+li
+li id=menu-item-8620 class=menu-item menu-item-type-post_type menu-item-object-page menu-item-has-childrena href=httpwww.translationsingapore.comnewsi class=mk-moon-file-5iNewsa
+ul class=sub-menu 
+li id=menu-item-8621 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comblogBlogali
+li id=menu-item-8622 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.compress-releasePress Releaseali
+li id=menu-item-8623 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comskoposSkoposali
+ul
+li
+li id=menu-item-8627 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comshowcasei class=mk-moon-images-2iShowcaseali
+li id=menu-item-8626 class=menu-item menu-item-type-post_type menu-item-object-page menu-item-has-childrena href=httpwww.translationsingapore.comcontact-usi class=mk-moon-phoneiContact Usa
+ul class=sub-menu 
+li id=menu-item-8631 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comcareers-at-lingua-technologies-internationalCareers at Lingua Technologies Internationalali
+li id=menu-item-8628 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comelectronic-paymentE-Paymentali
+li id=menu-item-8855 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comgetting-hereGetting Hereali
+li id=menu-item-9060 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comjoin-usJoin Us as Our Linguistsali
+ul
+li
+li id=menu-item-11375 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comdownloadi class=mk-moon-arrow-down-10iDownloadali
+li id=menu-item-9823 class=menu-item menu-item-type-post_type menu-item-object-page menu-item-has-childrena href=httpwww.translationsingapore.comour-languagesi class=mk-moon-earthiLanguagesa
+ul class=sub-menu 
+li id=menu-item-10481 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comarabicArabicali
+li id=menu-item-10000 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.combahasa-indonesiaBahasa Indonesiaali
+li id=menu-item-9829 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.combahasa-malayBahasa Malayali
+li id=menu-item-10214 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comburmeseBurmeseali
+li id=menu-item-9828 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comchineseChineseali
+li id=menu-item-9822 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comfrenchFrenchali
+li id=menu-item-9890 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comgermanGermanali
+li id=menu-item-9827 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comindianIndic Languagesali
+li id=menu-item-10482 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comitalianItalianali
+li id=menu-item-9826 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comjapaneseJapaneseali
+li id=menu-item-10215 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comkhmerKhmerali
+li id=menu-item-9825 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comkoreanKoreanali
+li id=menu-item-10104 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comlaoLaoali
+li id=menu-item-10466 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comportuguesePortugueseali
+li id=menu-item-10353 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comrussianRussianali
+li id=menu-item-10467 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comspanish_1Spanishali
+li id=menu-item-9824 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comthailandThaiali
+li id=menu-item-10081 class=menu-item menu-item-type-post_type menu-item-object-pagea href=httpwww.translationsingapore.comvietnameseVietnameseali
+ul
+li
+ulnavdiv div class=mk-nav-responsive-linki class=mk-moon-menu-3idiv
+div class=header-logo logo-is-responsive left-logo
+a href=httpwww.translationsingapore.com title=Translation Singapore
+img class=mk-desktop-logo alt=Translation Singapore src=httpwww.translationsingapore.comwp-contentuploads201609logo-bignew-ISO.png 
+img class=mk-resposnive-logo alt=Translation Singapore src=httpwww.translationsingapore.comwp-contentuploads201609logo-bignew-ISO.png 
+a
+div
+div class=clearbothdiv
+div
+div class=mk-header-right
+div
+div
+div class=clearbothdiv
+div class=mk-header-padding-wrapperdiv
+div class=clearbothdiv
+div class=mk-zindex-fix
+script data-cfasync=false src=cdn-cgiscripts5c5dd728cloudflare-staticemail-decode.min.jsscriptscript type=textjavascriptvar lsjQuery = jQuery;scriptscript type=textjavascript
+lsjQuery(document).ready(function() {
+                if(typeof lsjQuery.fn.layerSlider == undefined) { lsShowNotice('layerslider_3','jquery'); }
+                    else if(typeof lsjQuery.transit == undefined  typeof lsjQuery.transit.modifiedForLayerSlider == undefined) { lsShowNotice('layerslider_3', 'transit'); }
+                        else {
+                            lsjQuery(#layerslider_3).layerSlider({
+                                width  '1160px',
+                                height  '400px',
+                                responsive  false,
+                                responsiveUnder  960,
+                                sublayerContainer  960,
+                                autoStart  true,
+                                pauseOnHover  true,
+                                firstLayer  1,
+                                animateFirstLayer  true,
+                                randomSlideshow  false,
+                                twoWaySlideshow  true,
+                                loops  0,
+                                forceLoopNum  true,
+                                autoPlayVideos  false,
+                                autoPauseSlideshow  'auto',
+                                youtubePreview  'maxresdefault.jpg',
+                                keybNav  true,
+                                touchNav  true,
+                                skin  'fullwidth',
+                                skinsPath  'httpwww.translationsingapore.comwp-contentpluginsLayerSliderskins',
+navPrevNext  true,
+                                navStartStop  true,
+                                navButtons  true,
+                                hoverPrevNext  false,
+                                hoverBottomNav  false,
+                                showBarTimer  false,
+                                showCircleTimer  true,
+                                thumbnailNavigation  'hover',
+                                tnWidth  100,
+                                tnHeight  60,
+                                tnContainerWidth  '60%',
+                                tnActiveOpacity  35,
+                                tnInactiveOpacity  100,
+                                imgPreload  true,
+                        		yourLogo  false,
+                                yourLogoStyle  'left 10px; top 10px;',
+                                yourLogoLink  false,
+                                yourLogoTarget  '_self',
+                                cbInit  function(element) { },
+                                cbStart  function(data) { },
+                                cbStop  function(data) { },
+                                cbPause  function(data) { },
+                                cbAnimStart  function(data) { },
+                                cbAnimStop  function(data) { },
+                                cbPrev  function(data) { },
+                                cbNext  function(data) { }
+                            });
+                        }
+            });
+        scriptdiv id=layerslider_3 class=ls-wp-container style=width 1160px; height 400px; margin 0px auto; div class=ls-layer style=slidedirection right; slidedelay 4000; durationin 1500; durationout 1500; easingin easeInOutQuint; easingout easeInOutQuint; delayin 0; delayout 0; timeshift 0; transition2d 28; img src=httpwww.translationsingapore.comwp-contentuploads201611iso1.jpg class=ls-bg alt=Slide backgrounda href=the-first-local-translation-company-in-singapore-to-receiveiso-171002015-certification target=_self class=ls-s-1 style=position absolute; top 152px; left562px; display block;   durationin  1000; durationout  1000; easingin  easeInOutQuint; easingout  easeInOutQuint; delayin  0; delayout  0; showuntil  0h2 class= style= padding-top 5px; padding-right 5px; padding-bottom 5px; padding-left 5px; font-size 33px; color #fff; background rgba(31, 29, 29, 0.7);  white-space nowrap; Singapore's FIRST h2aa href=the-first-local-translation-company-in-singapore-to-receiveiso-171002015-certification target=_self class=ls-s-1 style=position absolute; top 217px; left478px; display block;   durationin  1000; durationout  1000; easingin  easeInOutQuint; easingout  easeInOutQuint; delayin  1000; delayout  0; showuntil  0h2 class= style= padding-top 5px; padding-right 5px; padding-bottom 5px; padding-left 5px; font-size 28px; color #fff; background rgba(31, 29, 29, 0.7);  white-space nowrap; ISO 171002015 certified company! h2adivdiv class=ls-layer style=slidedirection right; slidedelay 4000; durationin 1500; durationout 1500; easingin easeInOutQuint; easingout easeInOutQuint; delayin 0; delayout 0; timeshift 0; transition2d 28; img src=httpwww.translationsingapore.comwp-contentuploads201407slide2.jpg class=ls-bg alt=Slide backgrounda href=translation-localization target=_self class=ls-s-1 style=position absolute; top 190px; left352px; display block;   durationin  1000; durationout  1000; easingin  easeInOutQuint; easingout  easeInOutQuint; delayin  0; delayout  0; showuntil  0h2 class= style= padding-top 5px; padding-right 5px; padding-bottom 5px; padding-left 5px; color #fff; background rgba(31, 29, 29, 0.7);  white-space nowrap; Asian, European, Indic, h2aa href=translation-localization target=_self class=ls-s-1 style=position absolute; top 250px; left281px; display block;   durationin  1000; durationout  1000; easingin  easeInOutQuint; easingout  easeInOutQuint; delayin  1000; delayout  0; showuntil  0h2 class= style= padding-top 5px; padding-right 5px; padding-bottom 5px; padding-left 5px; color #fff; background rgba(31, 29, 29, 0.7);  white-space nowrap; Middle Eastern Languages & MORE. h2aa href=translation-localization target=_self class=ls-s-1 style=position absolute; top 313px; left391px; display block;   durationin  1000; durationout  1000; easingin  easeInOutQuint; easingout  easeInOutQuint; delayin  1500; delayout  0; showuntil  0h2 class= style= padding-top 5px; padding-right 5px; padding-bottom 5px; padding-left 5px; color #fff; background rgba(31, 29, 29, 0.7);  white-space nowrap; Learn More Now! h2adivdiv class=ls-layer style=slidedirection right; slidedelay 4000; durationin 1500; durationout 1500; easingin easeInOutQuint; easingout easeInOutQuint; delayin 0; delayout 0; timeshift 0; transition2d 28; img src=httpwww.translationsingapore.comwp-contentuploads201408city.jpg class=ls-bg alt=Slide backgrounda href=contact-us target=_self class=ls-s-1 style=position absolute; top 108px; left199px; display block;   durationin  1000; durationout  1000; easingin  easeInOutQuint; easingout  easeInOutQuint; delayin  500; delayout  0; showuntil  0h2 class= style= padding-top 5px; padding-right 5px; padding-bottom 5px; padding-left 5px; color #fff; background rgba(31, 29, 29, 0.7);  white-space nowrap; WANT TO TAKE A BITE OF THE GLOBAL PIE h2aa href=contact-us target=_self class=ls-s-1 style=position absolute; top 167px; left342px; display block;   durationin  1000; durationout  1000; easingin  easeInOutQuint; easingout  easeInOutQuint; delayin  1000; delayout  0; showuntil  0h2 class= style= padding-top 5px; padding-right 5px; padding-bottom 5px; padding-left 5px; font-size 36px; color #fff; background rgba(31, 29, 29, 0.7);  white-space nowrap; Contact Us NOW! h2aa href=contact-us target=_self class=ls-s-1 style=position absolute; top 243px; left386px; display block;   durationin  1000; durationout  1000; easingin  easeInOutQuint; easingout  easeInOutQuint; delayin  1500; delayout  0; showuntil  4000h2 class= style= font-size 35px; color #fff; background rgba(31, 29, 29, 0.7);  white-space nowrap; +65 6576 0138 h2adivdiv class=ls-layer style=slidedirection right; slidedelay 4000; durationin 1500; durationout 1500; easingin easeInOutQuint; easingout easeInOutQuint; delayin 0; delayout 0; timeshift 0; transition2d 28; img src=httpwww.translationsingapore.comwp-contentuploads201408singapore.jpg class=ls-bg alt=Slide backgrounda href=contact-us target=_self class=ls-s-1 style=position absolute; top 32px; left117px; display block;   durationin  1000; durationout  1000; easingin  easeInOutQuint; easingout  easeInOutQuint; delayin  0; delayout  0; showuntil  0h2 class= style= padding-top 5px; padding-right 5px; padding-bottom 5px; padding-left 5px; color #fff; background rgba(31, 29, 29, 0.7);  white-space nowrap; Work with the region’s leading translation & localization h2aa href=contact-us target=_self class=ls-s-1 style=position absolute; top 89px; left294px; display block;   durationin  1000; durationout  1000; easingin  easeInOutQuint; easingout  easeInOutQuint; delayin  1000; delayout  0; showuntil  0h2 class= style= padding-top 5px; padding-right 5px; padding-bottom 5px; padding-left 5px; color #fff; background rgba(31, 29, 29, 0.7);  white-space nowrap; company established since 1996. h2aa href=contact-us target=_self class=ls-s-1 style=position absolute; top 150px; left322px; display block;   durationin  1000; durationout  1000; easingin  easeInOutQuint; easingout  easeInOutQuint; delayin  1500; delayout  0; showuntil  0h2 class= style= padding-top 5px; padding-right 5px; padding-bottom 5px; padding-left 5px; color #fff; background rgba(31, 29, 29, 0.7);  white-space nowrap; Get a Free Quotation Now! h2adivdiv class=ls-layer style=slidedirection right; slidedelay 4000; durationin 1500; durationout 1500; easingin easeInOutQuint; easingout easeInOutQuint; delayin 0; delayout 0; timeshift 0; transition2d 28; img src=httpwww.translationsingapore.comwp-contentuploads201408monk.jpg class=ls-bg alt=Slide backgrounda href=contact-us target=_self class=ls-s-1 style=position absolute; top 65px; left597px; display block;   durationin  1000; durationout  1000; easingin  easeInOutQuint; easingout  easeInOutQuint; delayin  0; delayout  0; showuntil  0h2 class= style= padding-top 5px; padding-right 5px; padding-bottom 5px; padding-left 5px; font-size 40px; color #fff; background rgba(31, 29, 29, 0.7);  white-space nowrap; ????? h2aa href=contact-us target=_self class=ls-s-1 style=position absolute; top 138px; left645px; display block;   durationin  1000; durationout  1000; easingin  easeInOutQuint; easingout  easeInOutQuint; delayin  1000; delayout  0; showuntil  0h2 class= style= padding-top 5px; padding-right 5px; padding-bottom 5px; padding-left 5px; font-size 40px; color #fff; background rgba(31, 29, 29, 0.7);  white-space nowrap; ????? h2adivdivdiv
+div class=clearbothdiv
+form class=responsive-searchform method=get style=displaynone; action=httpwww.translationsingapore.com
+input type=text class=text-input value= name=s id=s placeholder=Search.. 
+i class=mk-icon-searchinput value= type=submit i
+form
+headerdiv id=theme-page
+div id=mk-page-id-6780 class=theme-page-wrapper mk-main-wrapper full-layout  mk-grid vc_row-fluid row-fluid
+div class=theme-content
+div class=wpb_row vc_row-fluid  
+div class=vc_span12 wpb_column column_container 
+div class=wpb_raw_code wpb_content_element wpb_raw_html
+div class=wpb_wrapper
+ h1strongTranslation Services Agencystrongh1
+pstrongLingua Technologies Internationalstrong has has been helping organizations communicate effectively with their audiences for nearly two decades. Based in Singapore with a global reach of more than 5,000 highly qualified in-country translation resources, we are a global provider of web translation services capable of scaling our services both up and down to meet the linguistic, localization and desktop publishing requirements of corporate, non-profit and government clients both large and small.p
+div
+div
+divdivdiv class=wpb_row vc_row-fluid  
+div class=vc_span3 wpb_column column_container 
+div id=box-icon-973 style=margin-bottom30px; class=   simple_ultimate-style mk-box-icondiv class=top-side rounded-circlea href=httpwww.translationsingapore.comtranslation-localizationi style=color#6fb0e0;border-color#6fb0e0; class=mk-moon-bubbles medium mk-main-icoiadiv class=box-detail-wrapper medium-sizeh4 style=font-size16px;font-weightbold;a href=httpwww.translationsingapore.comtranslation-localizationTranslation &amp; Localizationah4We use not just real people, but people who are real good at their jobs. We tap into a global network of expert translators, localization experts and dedicated project managers to deliver the best service.div class=clearbothdiva class=icon-box-readmore href=httpwww.translationsingapore.comtranslation-localizationRead Morei class=mk-icon-caret-rightiadivdiv class=clearbothdivdivdivstyle type=textcss#box-icon-973 {color#555;}#box-icon-973 h4 a{color#252525!important;}style
+div
+div class=vc_span3 wpb_column column_container 
+div id=box-icon-423 style=margin-bottom30px; class=   simple_ultimate-style mk-box-icondiv class=top-side rounded-circlea href=httpwww.translationsingapore.comdesktop-publishingi style=color#00c8d7;border-color#00c8d7; class=mk-moon-screen-2 medium mk-main-icoiadiv class=box-detail-wrapper medium-sizeh4 style=font-size16px;font-weightbold;a href=httpwww.translationsingapore.comdesktop-publishingDesktop Publishingah4Desktop publishing experts who are ready and able to take your documentation and marketing materials through the design, creation and digital prep stages.div class=clearbothdiva class=icon-box-readmore href=httpwww.translationsingapore.comdesktop-publishingRead Morei class=mk-icon-caret-rightiadivdiv class=clearbothdivdivdivstyle type=textcss#box-icon-423 {color#555;}#box-icon-423 h4 a{color#252525!important;}style
+div
+div class=vc_span3 wpb_column column_container 
+div id=box-icon-961 style=margin-bottom30px; class=   simple_ultimate-style mk-box-icondiv class=top-side rounded-circlea href=httpwww.translationsingapore.comtranscriptioni style=color#00c8d7;border-color#00c8d7; class=mk-moon-bubbles-10 medium mk-main-icoiadiv class=box-detail-wrapper medium-sizeh4 style=font-size16px;font-weightbold;a href=httpwww.translationsingapore.comtranscriptionTranscriptionah4Lingua Technologies International’s reputation for excellence in the field of transcription is the result of our timeliness, fine quality and attentive client service.div class=clearbothdiva class=icon-box-readmore href=httpwww.translationsingapore.comtranscriptionRead Morei class=mk-icon-caret-rightiadivdiv class=clearbothdivdivdivstyle type=textcss#box-icon-961 {color#555;}#box-icon-961 h4 a{color#252525!important;}style
+div
+div class=vc_span3 wpb_column column_container 
+div id=box-icon-953 style=margin-bottom30px; class=   simple_ultimate-style mk-box-icondiv class=top-side rounded-circlea href=httpwww.translationsingapore.comcertified-translationi style=color#00c8d7;border-color#00c8d7; class=mk-moon-quill-2 medium mk-main-icoiadiv class=box-detail-wrapper medium-sizeh4 style=font-size16px;font-weightbold;a href=httpwww.translationsingapore.comcertified-translationCertified Translationah4Clients come to Lingua Technologies International when they need the service of a certified translator in Singapore to submit a certified translation of an official document to a court or government agency.div class=clearbothdiva class=icon-box-readmore href=httpwww.translationsingapore.comcertified-translationRead Morei class=mk-icon-caret-rightiadivdiv class=clearbothdivdivdivstyle type=textcss#box-icon-953 {color#555;}#box-icon-953 h4 a{color#252525!important;}style
+divdivdiv class=wpb_row vc_row-fluid  
+div class=vc_span12 wpb_column column_container 
+div class=wpb_raw_code wpb_content_element wpb_raw_html
+div class=wpb_wrapper
+h5strongThe Go-To Name for Translation Servicesstrongh5
+pTo compete in a crowded, noisy international market, organisations must adapt the way they communicate with the world. As a top-tier translation company in Singapore, we help transform websites into powerful platforms that deliver unmatched user experiences – websites that truly resonate with local customers everywhere.p
+div
+div
+divdivdiv class=wpb_row vc_row-fluid  
+div class=vc_span12 wpb_column column_container 
+h2 style=font-size 25px;text-alignleft;color #17b8d1;font-weightbolder;margin-top10px;margin-bottom8px;  id=fancy-title-861 class=mk-shortcode mk-fancy-title pattern-style span style=padding-right8px;OUR SOLUTIONSspanh2div class=clearbothdivdiv id=mk-tabs-371 class=mk-shortcode mk-tabs vertical-left default-style  vertical-style  ul class=mk-tabs-tabsli class=tab-with-icona href=#1402021504-1-84i class=mk-icon-windowsiSoftware Translationalili class=tab-with-icona href=#1402021504-2-39i class=mk-icon-globeiWeb Translationalili class=tab-with-icona href=#1402022588568-2-0i class=mk-moon-profileiTranslation Asset Managementalili class=tab-with-icona href=#1402022681603-3-2i class=mk-moon-print-3iPre-Press &amp; Print Managementalili class=tab-with-icona href=#1402022800162-4-1i class=mk-moon-quilliPublication Adaptationalidiv class=clearbothdivuldiv class=mk-tabs-panes
+div id=1402021504-1-84 class=mk-tabs-panediv class=wpb_row vc_row-fluid  
+div class=vc_span6 wpb_column column_container 
+div class=wpb_raw_code wpb_content_element wpb_raw_html
+div class=wpb_wrapper
+h5SOFTWARE TRANSLATION & LOCALIZATIONh5
+pOur Software Translation and Localization services includep
+ul
+liSoftware internationalizationli
+liUnicode enablementli
+liTranslation of HTML and XML filesli
+li Translation of databasesli
+li Localization of images, icons and designsli
+li Localization of numberings, currencies and date formatsli
+ul
+div
+div
+div
+div class=vc_span6 wpb_column column_container 
+div class=mk-image-shortcode mk-shortcode   align-left simple-frame inside-image  style=max-width 800px; margin-bottom10pxdiv class=mk-image-innerimg class=lightbox-false alt=software translation & localization title=software translation & localization src=httpwww.translationsingapore.comwp-contentuploadsbfi_thumbshutterstock_152095541-361umhvlnle0te8t5seqyo.jpg divdiv class=clearbothdivdiv
+divdivdiv class=mk-button-align lefta href=httpwww.translationsingapore.comsoftware-translation-localization-services target=_self class=mk-button dark button-338 light-color  mk-shortcode three-dimension medium  Read Moreadiv
+style type=textcss
+    .button-338 {
+                margin-bottom 15px;
+                margin-top 0px;
+
+        }
+
+        .button-338 {
+                background-color#6fb0e0;
+
+        }
+        
+         .button-338hover {
+                background-color#67a4d0;
+
+        }
+        .button-338.three-dimension  {
+             box-shadow 0px 3px 0px 0px #598db3;
+        }
+        .button-338.three-dimensionactive  {
+             box-shadow 0px 1px 0px 0px #598db3;
+        } 
+    style
+div class=clearbothdivdiv
+div id=1402021504-2-39 class=mk-tabs-panediv class=wpb_row vc_row-fluid  
+div class=vc_span6 wpb_column column_container 
+div class=wpb_raw_code wpb_content_element wpb_raw_html
+div class=wpb_wrapper
+h4Web Translation & Localization Servicesh4
+pWe provide complete web translation and localization services to ensure clients bring a high-quality localized product and content to market quickly, efficiently, and cost-effectively, includingp
+ul
+li Website globalizationli
+li Unicode enablementli
+li Translation of HTML and XML filesli
+li Translation of databasesli
+li Localization of images, icons and designsli
+li Localization of numbering, currency and date formatsli
+ul
+div
+div
+div
+div class=vc_span6 wpb_column column_container 
+div class=mk-image-shortcode mk-shortcode   align-left simple-frame inside-image  style=max-width 800px; margin-bottom10pxdiv class=mk-image-innerimg class=lightbox-false alt=web translation & localization service title=web translation & localization service src=httpwww.translationsingapore.comwp-contentuploadsbfi_thumbWWW-361umhvlnle0te8t5seqyo.jpg divdiv class=clearbothdivdiv
+divdivdiv class=mk-button-align lefta href=httpwww.translationsingapore.comweb-translation-localization-services target=_self class=mk-button dark button-731 light-color  mk-shortcode three-dimension medium  Read Moreadiv
+style type=textcss
+    .button-731 {
+                margin-bottom 15px;
+                margin-top 0px;
+
+        }
+
+        .button-731 {
+                background-color#6fb0e0;
+
+        }
+        
+         .button-731hover {
+                background-color#67a4d0;
+
+        }
+        .button-731.three-dimension  {
+             box-shadow 0px 3px 0px 0px #598db3;
+        }
+        .button-731.three-dimensionactive  {
+             box-shadow 0px 1px 0px 0px #598db3;
+        } 
+    style
+div class=clearbothdivdiv
+div id=1402022588568-2-0 class=mk-tabs-panediv class=wpb_row vc_row-fluid  
+div class=vc_span6 wpb_column column_container 
+div class=wpb_raw_code wpb_content_element wpb_raw_html
+div class=wpb_wrapper
+h4Translation Assets Managementh4
+pOur TAM system enables you to harness the latest technology to streamline your localization process. It empowers your organization with an intelligent database that combines accurate human translation with technologically controlled consistency.p
+pAt Lingua Technologies International, top-notch human capital and advanced technology work together. Seamlessly integrated with our human translation efforts, our Translation Asset Management (TAM) system can process huge volumes of translation while improving efficiency and quality by leveraging previously approved translations, saving clients time and money.p
+div
+div
+div
+div class=vc_span6 wpb_column column_container 
+div class=mk-image-shortcode mk-shortcode   align-left simple-frame inside-image  style=max-width 800px; margin-bottom10pxdiv class=mk-image-innerimg class=lightbox-false alt=translation assets management title=translation assets management src=httpwww.translationsingapore.comwp-contentuploadsbfi_thumbbuild-business-361umhmjz0bn9ar2e21fr4.png divdiv class=clearbothdivdiv
+divdivdiv class=mk-button-align lefta href=httpwww.translationsingapore.comtranslation-asset-management-tam target=_self class=mk-button dark button-305 light-color  mk-shortcode three-dimension medium  Read Moreadiv
+style type=textcss
+    .button-305 {
+                margin-bottom 15px;
+                margin-top 0px;
+
+        }
+
+        .button-305 {
+                background-color#6fb0e0;
+
+        }
+        
+         .button-305hover {
+                background-color#67a4d0;
+
+        }
+        .button-305.three-dimension  {
+             box-shadow 0px 3px 0px 0px #598db3;
+        }
+        .button-305.three-dimensionactive  {
+             box-shadow 0px 1px 0px 0px #598db3;
+        } 
+    style
+div class=clearbothdivdiv
+div id=1402022681603-3-2 class=mk-tabs-panediv class=wpb_row vc_row-fluid  
+div class=vc_span6 wpb_column column_container 
+div class=wpb_raw_code wpb_content_element wpb_raw_html
+div class=wpb_wrapper
+h4Pre-Press & Print Managementh4
+pFollowing content generation and, in many cases, translation, clients often want printed copies of their document after our desktop publishing software specialists and graphic artists transfer their text and images into an attractive layout. That’s when our pre-press & print management experts take over with their extensive range of fast, flexible and reliable software solutions for the commercial print market.p
+pOver the past 17 years, technology has come a long way and we have embraced every one of these changes while our clients delight in the efficiency and speed with which we bring their projects to life.p
+div
+div
+div
+div class=vc_span6 wpb_column column_container 
+div class=mk-image-shortcode mk-shortcode   align-left simple-frame inside-image  style=max-width 800px; margin-bottom10pxdiv class=mk-image-innerimg class=lightbox-false alt=pre-press & print management title=pre-press & print management src=httpwww.translationsingapore.comwp-contentuploadsbfi_thumbprint_sign_off-361umhr2tauu1chxrx83cw.jpg divdiv class=clearbothdivdiv
+divdivdiv class=mk-button-align lefta href=httpwww.translationsingapore.compre-press-print-management target=_self class=mk-button dark button-707 light-color  mk-shortcode three-dimension medium  Read Moreadiv
+style type=textcss
+    .button-707 {
+                margin-bottom 15px;
+                margin-top 0px;
+
+        }
+
+        .button-707 {
+                background-color#6fb0e0;
+
+        }
+        
+         .button-707hover {
+                background-color#67a4d0;
+
+        }
+        .button-707.three-dimension  {
+             box-shadow 0px 3px 0px 0px #598db3;
+        }
+        .button-707.three-dimensionactive  {
+             box-shadow 0px 1px 0px 0px #598db3;
+        } 
+    style
+div class=clearbothdivdiv
+div id=1402022800162-4-1 class=mk-tabs-panediv class=wpb_row vc_row-fluid  
+div class=vc_span6 wpb_column column_container 
+div class=wpb_raw_code wpb_content_element wpb_raw_html
+div class=wpb_wrapper
+h4Publication Adaptationh4
+pOur experienced team of localization and adaptation experts will analyze your original publication thoroughly and discuss your objectives with you before suggesting ways to embark on the adaptation process to bring your publication into new markets.p
+pLingua Technologies International is behind many successful adaptations currently available in the market worldwide, and we’re ready to stand behind yours. Adapt, and grow.p
+div
+div
+div
+div class=vc_span6 wpb_column column_container 
+div class=mk-image-shortcode mk-shortcode   align-left simple-frame inside-image  style=max-width 800px; margin-bottom10pxdiv class=mk-image-innerimg class=lightbox-false alt= title= src=httpwww.translationsingapore.comwp-contentuploadsbfi_thumbpublication-ps-361umhr2tauu1chxrx83cw.jpg divdiv class=clearbothdivdiv
+divdivdiv class=mk-button-align lefta href=httpwww.translationsingapore.compublication-adaptation target=_self class=mk-button dark button-546 light-color  mk-shortcode three-dimension medium  Read Moreadiv
+style type=textcss
+    .button-546 {
+                margin-bottom 15px;
+                margin-top 0px;
+
+        }
+
+        .button-546 {
+                background-color#6fb0e0;
+
+        }
+        
+         .button-546hover {
+                background-color#67a4d0;
+
+        }
+        .button-546.three-dimension  {
+             box-shadow 0px 3px 0px 0px #598db3;
+        }
+        .button-546.three-dimensionactive  {
+             box-shadow 0px 1px 0px 0px #598db3;
+        } 
+    style
+div class=clearbothdivdiv
+div class=clearbothdivdivdiv class=clearbothdivdiv
+style type=textcss
+                #mk-tabs-371 .mk-tabs-tabs li.ui-tabs-active a, #mk-tabs-371 .mk-tabs-panes, #mk-tabs-371 .mk-fancy-title span{
+                    background-color #fff;
+                }
+        style
+divdivdiv class=wpb_row vc_row-fluid  
+div class=vc_span12 wpb_column column_container 
+div class=wpb_raw_code wpb_content_element wpb_raw_html
+div class=wpb_wrapper
+h3strongBetter User Experience, Greater Online Reach, Increased Salesstrongh3
+pApart from better user experience, businesses come to us because Lingua’s translation services bring aboutp
+ul
+listrongGreater online reachstrong – Our translation service immediately opens up your website to millions of people, and potential customers, who formerly could not understand it.li
+listrongIncreased salesstrong – Tailored, understandable content is the first powerful step towards building profitable customer connections.li
+ul
+h5strongCombined Power of Cutting-Edge Technology & Native Speakersstrongh5
+pWe credit our success to our combined power of people and technology.
+pWe have a community of experienced and carefully selected translators, who each ensure fast turnaround times and ensure that the copies read well. More than just language translators, they are experts in language style, linguistic connotations and cultural appropriateness. This is why we make sure our translators are native-speakers, selected by their superior language proficiency, subject knowledge and experience.pbr 
+div
+div
+divdivdiv class=wpb_row vc_row-fluid  
+div class=vc_span6 wpb_column column_container 
+h3 class=mk-shortcode mk-fancy-title pattern-style mk-shortcode-headingspanClient Testimonialsspanh3div class=mk-testimonial boxed-style mk-flexslider  id=testimonial_1346ul class=mk-flex-slidesli class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteI’m very impressed!pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Mr. Chew divspan class=mk-testimonial-authorMr. Chewspana class=mk-testimonial-companySales Director APACali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteYou guys are wonderful, thanks for your help!pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Ms. Reyes divspan class=mk-testimonial-authorMs. Reyesspana class=mk-testimonial-companyAccount Executive Design Houseali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteThank you very much for the project.  It went well and the client was happy with the translation.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Mr. Eckstein divspan class=mk-testimonial-authorMr. Ecksteinspanli
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteI enjoyed working with you and your team. You will be our sole service provider for translation services! pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Mr. Yeo divspan class=mk-testimonial-authorMr. Yeospana class=mk-testimonial-companyDirectorali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteThanks a lot for your speed of action and professionalismpdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt= Mr. Leclercq divspan class=mk-testimonial-author Mr. Leclercqspana class=mk-testimonial-companyF&B Industryali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteThank you for the great workpdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Mr. Justin Lin divspan class=mk-testimonial-authorMr. Justin Linspana class=mk-testimonial-companyMachineryali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteThank you. Your good service is appreciated alwayspdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Ms. Tracy Jia divspan class=mk-testimonial-authorMs. Tracy Jiaspana class=mk-testimonial-companyClinical Associate Global Pharmaceutical Companyali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteWe were very satisfied with the translations which are currently being integrated into our website.
+We very much enjoyed working with your company on this project.
+Thank you again to you and your team for the professionalism and reactivity on this project. We will be happy to recommend you any time!pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Ms. Kallmayer divspan class=mk-testimonial-authorMs. Kallmayerspana class=mk-testimonial-companyCMO Global Hospital ali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteThanks for checking in. Couldn’t have chosen to work with a better firm than yours. Delivery was punctual and the translation was professionally done.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Sandy divspan class=mk-testimonial-authorSandyspana class=mk-testimonial-companyMedical Industryali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteBrilliant, thank you Jolin – the first two project languages fully completed now! Thanks for your efforts and patience and please extend thanks to your linguists too!pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Ms. Saolele divspan class=mk-testimonial-authorMs. Saolelespana class=mk-testimonial-companyProject Manager, Language Service Providerali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteThe client is very happy with the recent translations in Simplified &amp; Traditional Chinese, there were no changes at all!!!
+Thank you for the excellent work!pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Mr. Yeo divspan class=mk-testimonial-authorMr. Yeospana class=mk-testimonial-companyBusiness Director PR filmali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteLooks good. Thanks for the great translation work.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Mr. Tan divspan class=mk-testimonial-authorMr. Tanspana class=mk-testimonial-companyCreative Director, Production Houseali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quotespan style=color #6b6b6b;We have used the services of Lingua Technologies International for many years now and haven’t had any reason to go anywhere else for our layout and translation jobs. The team at Lingua Technologies International is very professional, capable, and extremely efficient in meeting deadlines.spanpdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-contentuploadsbfi_thumbimgres-361umjmwbtr9sr1phpze9s.jpg alt=Mr Bhardwaj divspan class=mk-testimonial-authorMr Bhardwajspana class=mk-testimonial-companyDirectorali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteThanks a lot for always providing top notch quality and prompt service.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Brenda Yeo  divspan class=mk-testimonial-authorBrenda Yeo spana class=mk-testimonial-companyBranding & Communications Industryali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteThank you for your speedy work and all translation was done in good order.
+Appreciate your help.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Sandra Lim divspan class=mk-testimonial-authorSandra Limspana class=mk-testimonial-companyPipeline product and service industryali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteThe translation I got from your office was submitted to and accepted by the UK Visa processing centre.
+As I mentioned in my earlier email to your office, I could not ask for more and highly appreciate the fast and professional services given. And will definitely recommend your office to my firends in case they need translation services.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Ramon divspan class=mk-testimonial-authorRamonspanli
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteI think your company's service is fast and efficient, I am happy with the end result.  I have no issues thus far with the translation.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Samantha He divspan class=mk-testimonial-authorSamantha Hespanli
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteThanks for the follow up, yes the documents were accepted and my application was successful.
+I had a really good experience with all the staff involved, they were very accommodating whilst giving me realistic timeframe for job delivery.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Jin divspan class=mk-testimonial-authorJinspanli
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteIt is great and good service from your team. It has been accepted by ICA.
+Anyway, if I have any other translation in the future or any of my friend needs translation, I would recommend them to you guys.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Jun Fang divspan class=mk-testimonial-authorJun Fangspanli
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteThe document is well translated. We do not have any amendments needed.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Frankie divspan class=mk-testimonial-authorFrankiespana class=mk-testimonial-companyAerospace Industryali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteI wanted to say a big thank you to you for helping us for the completion of this project.
+We are pleased, not only by your work, but also your patience. We looking forward to work with you again in future projects.
+Once again, thank you for being such a wonderful partner.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Rodney Ang divspan class=mk-testimonial-authorRodney Angspana class=mk-testimonial-companyAdvertising Industryali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteThanks for your efforts and patience and please extend thanks to your linguists too!pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Trish divspan class=mk-testimonial-authorTrishspana class=mk-testimonial-companyLanguage Service Providerali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteThank you very much for your e-mail and follow up.
+We were very satisfied with the translations which are currently being integrated into our website.
+We very much enjoyed working with your company on this project and will certainly get back to you shortly for the next step (brochures and other)
+Thank you again to you and your team for the professionalism and reactivity on this project. We will be happy to recommend you any time!pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Caroline divspan class=mk-testimonial-authorCarolinespana class=mk-testimonial-companyHealthcare Industryali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteThe client is very happy with the recent translations in Simplified &amp; Traditional Chinese, there were no changes at all!!!
+Thank you for the excellent work!pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Jack Yeo divspan class=mk-testimonial-authorJack Yeospana class=mk-testimonial-companyPR Consultancyali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteYou guys are wonderful, thanks for your help!pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Nina divspan class=mk-testimonial-authorNinaspana class=mk-testimonial-companyAdvertising Industryali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteThanks a lot for your speed of action and professionalism, I'll give you a call for sure if I need more translations!pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Thomas Leclercq divspan class=mk-testimonial-authorThomas Leclercqspana class=mk-testimonial-companyF&B Industryali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteI enjoyed working with you and your team.
+You will be our sole service provider for translation services!pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Henry Yeo divspan class=mk-testimonial-authorHenry Yeospana class=mk-testimonial-companyConsultancyali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteThank you very much for the project.  It went well and the client was happy with the translation.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Greg divspan class=mk-testimonial-authorGregspanli
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteVery impressed.
+Thank you once again and happy holidays!pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Andy Chew divspan class=mk-testimonial-authorAndy Chewspana class=mk-testimonial-companyEnterprise Labeling Solutionsali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteThank you for your email. We were very happy with your turnaround time and deeply appreciate for the translation work completed by your company. We hope to have future opportunity working together with you again. Once again, thank you for your great efforts.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Kenson divspan class=mk-testimonial-authorKensonspana class=mk-testimonial-companyRenewable Energy Industryali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteYour team never fails to impress us with the speed and quality of your work, including excellent customer service. Generally, language translations tend to be channelled to our department. But, if they need language experts, we will recommend Lingua.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Fiona divspan class=mk-testimonial-authorFionaspana class=mk-testimonial-companyMedical Industryali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteWe are pleased with the service rendered and the translation work.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Ming Ling divspan class=mk-testimonial-authorMing Lingspana class=mk-testimonial-companyMedia Industryali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteThank you for the quick turnaround, very professional and always appreciated.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Xu divspan class=mk-testimonial-authorXuspana class=mk-testimonial-companyOptic Industryali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteThanks for checking in. FYI, the entire Account Management teams and the Project Management teams are aware of the quality of your work.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Rayne divspan class=mk-testimonial-authorRaynespana class=mk-testimonial-companyAdvertising Industryali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteWe are happy with the delivery from your company.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Kah Pai divspan class=mk-testimonial-authorKah Paispana class=mk-testimonial-companyIT Industryali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteYou guys are always top of mind whenever I need translation services, as I appreciate your polite, professional and generally excellent service.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Oliver divspan class=mk-testimonial-authorOliverspana class=mk-testimonial-companyAdvertising Industryali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteFirst, I must say that your work exceeded my expectations and it was worth waiting. It is of very good quality, nice job done!pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Pedro divspan class=mk-testimonial-authorPedrospana class=mk-testimonial-companyShipping Industryali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteOur client was happy with the previous translation copy so all’s good on that bit.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Sieu Ping divspan class=mk-testimonial-authorSieu Pingspana class=mk-testimonial-companyAdvertising Industryali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteWe are very happy and satisfied with the translation service that was provided, especially in tight schedule, I really appreciate that. Definitely we will recommend your team to our colleagues if any translation services are needed.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Xinting divspan class=mk-testimonial-authorXintingspana class=mk-testimonial-companyMaritime Industryali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteMany thanks for your professional cooperation, we checked the manuals already and confirm herewith our satisfaction.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Juergen divspan class=mk-testimonial-authorJuergenspana class=mk-testimonial-companyManufacturing Industryali
+li class= testimonial-itemdiv class=mk-testimonial-contentp class=mk-testimonial-quoteThanks for your prompt and efficient service.
+Keep up the good work and looking forward more collaboration with you guys.pdivdiv class=mk-testimonial-image img width=50 height=50 src=httpwww.translationsingapore.comwp-includesimagesmediadefault.png alt=Aliceal divspan class=mk-testimonial-authorAlicealspana class=mk-testimonial-companyMarine Industryali
+uldiv
+script type=textjavascript
+
+        jQuery(document).ready(function() {
+            jQuery(window).on(load,function () {
+                jQuery(#testimonial_1346).flexslider({
+                    selector .mk-flex-slides  li,
+                    slideshow true,
+                    animation fade,
+                    smoothHeight false,
+                    slideshowSpeed 5000,
+                    animationSpeed 500,
+                    directionNavArrowsLeft  'i class=mk-icon-chevron-lefti',
+    				directionNavArrowsRight  'i class=mk-icon-chevron-righti',
+                    pauseOnHover true,
+                    controlNav false,
+                    directionNavtrue,
+                    prevText ,
+                    nextText 
+                });
+            });
+        });
+        script
+div
+div class=vc_span6 wpb_column column_container 
+div data-animation=slide data-easing=swing data-direction=horizontal data-smoothHeight=false data-slideshowSpeed=4000 data-animationSpeed=500 data-pauseOnHover=true data-controlNav=false data-directionNav=true data-isCarousel=true data-itemWidth=184 data-itemMargin=0 data-minItems=1 data-maxItems=6 data-move=1 class=mk-clients-shortcode mk-script-call mk-flexslider mk-shortcode h3 class=mk-shortcode mk-fancy-title pattern-style mk-shortcode-headingspanOur Clientelespanh3ul class=mk-flex-slideslidiv title=Edrington class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505Edrington.jpg);  height110px; border-colortransparent;divlilidiv title=Agricultural Bank of China class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408agricultural-bank.jpg);  height110px; border-colortransparent;divlilidiv title=Alexandra Hospital class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408alexandra-hos.jpg);  height110px; border-colortransparent;divlilidiv title=Assumption School class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408Assumption-school.jpg);  height110px; border-colortransparent;divlilidiv title=AWI class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408awi.jpg);  height110px; border-colortransparent;divlilidiv title=Beijing 1010 class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408beijing101.jpg);  height110px; border-colortransparent;divlilidiv title=Belfor class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408belfor2.jpg);  height110px; border-colortransparent;divlilidiv title=Binatone class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408binatone.jpg);  height110px; border-colortransparent;divlilidiv title=Canon class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408canon.jpg);  height110px; border-colortransparent;divlilidiv title=Flowcon class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408flowcon.jpg);  height110px; border-colortransparent;divlilidiv title=Hella class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408hella.jpg);  height110px; border-colortransparent;divlilidiv title=Henderson class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408henderson.jpg);  height110px; border-colortransparent;divlilidiv title=Herbal Life class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408herballife.jpg);  height110px; border-colortransparent;divlilidiv title=Hertz class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408hertz.jpg);  height110px; border-colortransparent;divlilidiv title=Hme Technology class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408hme-technology.jpg);  height110px; border-colortransparent;divlilidiv title=Hoerbiger class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408hoerbiger.jpg);  height110px; border-colortransparent;divlilidiv title=Hpb class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408hpb.jpg);  height110px; border-colortransparent;divlilidiv title=Hyflux class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408hyflux.jpg);  height110px; border-colortransparent;divlilidiv title=Impertus Marketing class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408impertus-marketing.jpg);  height110px; border-colortransparent;divlilidiv title=Keppel class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408keppel.jpg);  height110px; border-colortransparent;divlilidiv title=Motorola class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408motorola.jpg);  height110px; border-colortransparent;divlilidiv title=NUH class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408nuh.jpg);  height110px; border-colortransparent;divlilidiv title=OCBC class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408ocbc.jpg);  height110px; border-colortransparent;divlilidiv title=Polar class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408polar.jpg);  height110px; border-colortransparent;divlilidiv title=Porsche class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408porsche.jpg);  height110px; border-colortransparent;divlilidiv title=Reader Digest class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408reader-digest.jpg);  height110px; border-colortransparent;divlilidiv title=Swissotel class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408swissotel.jpg);  height110px; border-colortransparent;divlilidiv title=WMF class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408wmf.jpg);  height110px; border-colortransparent;divlilidiv title=Aggreko class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408aggreko.jpg);  height110px; border-colortransparent;divlilidiv title=Richemont class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505Richemont-.jpg);  height110px; border-colortransparent;divlilidiv title=Reebonz class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505Reebonz.jpg);  height110px; border-colortransparent;divlilidiv title=Raffles Hotel class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505Raffles-Hotel.jpg);  height110px; border-colortransparent;divlilidiv title=Burger King class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505Burger-King.jpg);  height110px; border-colortransparent;divlilidiv title=Mcdonalds class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505Mcdonalds.jpg);  height110px; border-colortransparent;divlilidiv title=Dairy Queen class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505Dairy-Queen.jpg);  height110px; border-colortransparent;divlilidiv title=Resort World Sentosa class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505Resort-World-Sentosa.jpg);  height110px; border-colortransparent;divlilidiv title=British American Tobacco class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505British-American-Tobacco.jpg);  height110px; border-colortransparent;divlilidiv title=SpotME class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505SpotME.jpg);  height110px; border-colortransparent;divlilidiv title=Linxens class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505Linxens.jpg);  height110px; border-colortransparent;divlilidiv title=Gemalto class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505Gemalto.jpg);  height110px; border-colortransparent;divlilidiv title=ATOS class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505ATOS.jpg);  height110px; border-colortransparent;divlilidiv title=Hitachi class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505Hitachi.jpg);  height110px; border-colortransparent;divlilidiv title=Siemens class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505Siemens.jpg);  height110px; border-colortransparent;divlilidiv title=A Star class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505A-Star1.jpg);  height110px; border-colortransparent;divlilidiv title=Roche class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505Roche.jpg);  height110px; border-colortransparent;divlilidiv title=Singapore Clinical Research Institute class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505Singapore-Clinical-Research-Institute.jpg);  height110px; border-colortransparent;divlilidiv title=TTSH class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505TTSH.jpg);  height110px; border-colortransparent;divlilidiv title=Mount Elizabeth class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505Mount-Elizabeth.jpg);  height110px; border-colortransparent;divlilidiv title=Gyro class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505Gyro.jpg);  height110px; border-colortransparent;divlilidiv title=Splash class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505Splash.jpg);  height110px; border-colortransparent;divlilidiv title=ITE class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505ITE.jpg);  height110px; border-colortransparent;divlilidiv title=McGraw-Hill class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505McGraw-Hill.jpg);  height110px; border-colortransparent;divlilidiv title=Kreab Gavin class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505Kreab-Gavin.jpg);  height110px; border-colortransparent;divlilidiv title=Barclays class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201505Barclays.jpg);  height110px; border-colortransparent;divlilidiv title=Garena class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201506Garena1.jpg);  height110px; border-colortransparent;divlilidiv title=Academies Australasia class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201408Academies-Australasia.jpg);  height110px; border-colortransparent;divlilidiv title=AXA class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201510AXA.jpg);  height110px; border-colortransparent;divlilidiv title=BMI Research class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201510BMI-Research.jpg);  height110px; border-colortransparent;divlilidiv title=Galmon class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201510Galmon.jpg);  height110px; border-colortransparent;divlilidiv title=INSEAD class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201510INSEAD.jpg);  height110px; border-colortransparent;divlilidiv title=JPP ADVISORS class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201510JPP-ADVISORS.jpg);  height110px; border-colortransparent;divlilidiv title=Mojo Rising Studios class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201510Mojo-Rising-Studios.jpg);  height110px; border-colortransparent;divlilidiv title=NTUC Health class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201510NTUC-Health.jpg);  height110px; border-colortransparent;divlilidiv title=PubMatic class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201510PubMatic.jpg);  height110px; border-colortransparent;divlilidiv title=Silverpop Systems class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201510Silverpop-Systems.jpg);  height110px; border-colortransparent;divlilidiv title=Singapore Prison Service class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201510Singapore-Prison-Service.jpg);  height110px; border-colortransparent;divlilidiv title=SKF class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201510SKF.jpg);  height110px; border-colortransparent;divlilidiv title=Smith &#038; Nephew class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201510Smith-Nephew.jpg);  height110px; border-colortransparent;divlilidiv title=Stratasys Singapore class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201510Stratasys-Singapore.jpg);  height110px; border-colortransparent;divlilidiv title=treasury-wine-estates class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201510treasury-wine-estates.jpg);  height110px; border-colortransparent;divlilidiv title=Vision Fund International class=client-logo style=background-imageurl(httpwww.translationsingapore.comwp-contentuploads201510Vision-Fund-International.jpg);  height110px; border-colortransparent;divliuldiv
+divdivdiv class=wpb_row vc_row-fluid  
+div class=vc_span12 wpb_column column_container 
+div style=padding 5px 0 20px; class=mk-divider mk-shortcode divider_full_width shadow_line div class=divider-innerspan class=divider-shadow-leftspanspan class=divider-shadow-rightspandivdivdiv class=clearbothdiv
+divdivdiv class=wpb_row vc_row-fluid  
+div class=vc_span10 wpb_column column_container 
+div class=wpb_raw_code wpb_content_element wpb_raw_html
+div class=wpb_wrapper
+pOur projects succeed thanks to a winning combination of more than 17 years of experience in the translation and localization industry, the ability to provide multilingual translation with particular expertise in Asian and European languages by experienced native linguists, a seamless project management process led by a dedicated and knowledgeable team, and cutting-edge technology to support you throughout the translation and localization process and leverage the benefits derived from it. Contact us – and discover what a difference it makes when you partner with professionals.p
+div
+div
+div
+div class=vc_span2 wpb_column column_container 
+divdivdiv class=wpb_row vc_row-fluid  
+div class=vc_span12 wpb_column column_container 
+div style=padding 5px 0 20px; class=mk-divider mk-shortcode divider_full_width shadow_line div class=divider-innerspan class=divider-shadow-leftspanspan class=divider-shadow-rightspandivdivdiv class=clearbothdiv
+divdiv
+div class=vc_span4 wpb_column column_container 
+h1 style=font-size 20px;text-alignleft;color #222222;font-weightbold;margin-top0px;margin-bottom20px;  id=fancy-title-954 class=mk-shortcode mk-fancy-title simple-style span style=Request a Quotationspanh1div class=clearbothdivdiv style=padding 0px 0 20px; class=mk-divider mk-shortcode divider_full_width single_dotted div class=divider-innerdivdivdiv class=clearbothdivdiv role=form class=wpcf7 id=wpcf7-f9153-p6780-o1 lang=en-US dir=ltr
+div class=screen-reader-responsediv
+form action=#wpcf7-f9153-p6780-o1 method=post class=wpcf7-form novalidate=novalidate
+div style=display none;
+input type=hidden name=_wpcf7 value=9153 
+input type=hidden name=_wpcf7_version value=4.8 
+input type=hidden name=_wpcf7_locale value=en_US 
+input type=hidden name=_wpcf7_unit_tag value=wpcf7-f9153-p6780-o1 
+input type=hidden name=_wpcf7_container_post value=6780 
+input type=hidden name=_wpcf7_nonce value=ce8e2b566b 
+div
+plabelspan class=wpcf7-form-control-wrap your-nameinput type=text name=your-name value= size=40 class=wpcf7-form-control wpcf7-text wpcf7-validates-as-required id=your-name aria-required=true aria-invalid=false placeholder=Your Name spanlabelp
+plabelspan class=wpcf7-form-control-wrap your-emailinput type=email name=your-email value= size=40 class=wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email id=your-email aria-required=true aria-invalid=false placeholder=Your Email spanlabelp
+plabelspan class=wpcf7-form-control-wrap mobileinput type=tel name=mobile value= size=40 class=wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel id=mobile aria-required=true aria-invalid=false placeholder=Contact Number spanlabelp
+plabelspan class=wpcf7-form-control-wrap your-messagetextarea name=your-message cols=40 rows=10 class=wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required id=your-message aria-required=true aria-invalid=false placeholder=Messagetextareaspanlabelp
+pinput type=submit value=Send class=wpcf7-form-control wpcf7-submit p
+div class=wpcf7-response-output wpcf7-display-nonedivformdiv
+div
+div class=clearbothdiv
+div
+div class=clearbothdiv
+div
+div class=clearbothdiv
+div
+section id=mk-footer class=
+div class=footer-wrapper mk-grid
+div class=mk-padding-wrapper
+div class=mk-col-1-2
+div class=mk-col-1-2section id=contact_info-2 class=widget widget_contact_infodiv class=widgettitleLingua Technologies International Pte Ltddiv ul itemscope= itemtype=httpschema.orgPerson
+lii class=mk-moon-officeispan itemprop=jobTitleLingua Technologies International Pte Ltdspanli lii class=mk-icon-homeispan itemprop=address itemscope= itemtype=httpschema.orgPostalAddress400 Orchard Road, #13-08 Orchard Towers, Singapore 238875spanli lii class=mk-icon-phoneispan class=AVANSERnumber+65 6576 0138spanli lii class=mk-icon-printispan+65 6576 0139spanli lii class=mk-icon-envelope-altispana itemprop=email href=cdn-cgilemail-protection#d7f1f4e6e7e2ecf1f4e6e6e7ecf1f4e6e6e4eca2f1f4e6e7e2ecf1f4e6e6e3ecaef1f4e1e3ecf1f4e6e6e1ecf1f4e6e6e3ecb6f1f4e6e6e7eca4bbf1f4eee0eca3bef1f4e6e6e6ecb9a4f1f4e6e7e2ecf1f4e6e6e7ecb0b6f1f4e6e6e5ecf1f4e6e6e6ecf1f4e6e6e3ecb2f1f4e3e1ecf1f4eeeeecb8bai&#110;qu&#105;ry&#64;tra&#110;s&#108;a&#116;io&#110;&#115;&#105;&#110;g&#97;&#112;&#111;re.c&#111;&#109;aspanli ul
+sectiondiv
+div class=mk-col-1-2section id=recent_posts-5 class=widget widget_posts_listsdiv class=widgettitleBreaking Newsdiv
+ul
+li class=post-list-image
+a href=httpwww.translationsingapore.comlingua-technologies-international-announces-relocation title=LINGUA TECHNOLOGIES INTERNATIONAL ANNOUNCES RELOCATION class=post-list-thumb
+img src=httpwww.translationsingapore.comwp-contentuploadsbfi_thumbNew-office1-361umu2c4xsdp01bl7cem8.jpg alt=LINGUA TECHNOLOGIES INTERNATIONAL ANNOUNCES RELOCATION 
+a
+div class=post-list-info
+a href=httpwww.translationsingapore.comlingua-technologies-international-announces-relocation class=post-list-titleLINGUA TECHNOLOGIES INTERNATIONAL ANNOUNCES RELOCATIONa
+div class=post-list-meta
+time datetime=Jan 2323 Jan 2018time
+div
+div
+div class=clearbothdiv
+li
+li class=post-list-image
+a href=httpwww.translationsingapore.comthe-first-local-translation-company-in-singapore-to-receiveiso-171002015-certification title=The First local translation company in Singapore to receivebrISO 171002015 Certification class=post-list-thumb
+ img src=httpwww.translationsingapore.comwp-contentuploadsbfi_thumbISO1-361umqsq9bxhfqmnkojcw0.jpg alt=The First local translation company in Singapore to receivebrISO 171002015 Certification 
+a
+div class=post-list-info
+a href=httpwww.translationsingapore.comthe-first-local-translation-company-in-singapore-to-receiveiso-171002015-certification class=post-list-titleThe First local translation company in Singapore to receivebrISO 171002015 Certificationa
+div class=post-list-meta
+time datetime=Sep 2727 Sep 2016time
+div
+div
+div class=clearbothdiv
+li
+li class=post-list-image
+a href=httpwww.translationsingapore.comvati-translator-day-hanoi title=VATI TRANSLATOR DAY HANOI class=post-list-thumb
+img src=httpwww.translationsingapore.comwp-contentuploadsbfi_thumbTranslator-Day-361umq641v9jjhwancm2v4.jpg alt=VATI TRANSLATOR DAY HANOI 
+a
+div class=post-list-info
+a href=httpwww.translationsingapore.comvati-translator-day-hanoi class=post-list-titleVATI TRANSLATOR DAY HANOIa
+div class=post-list-meta
+time datetime=Dec 22 Dec 2015time
+div
+div
+div class=clearbothdiv
+li
+ul
+sectiondiv
+div
+div class=mk-col-1-2section id=gmap-2 class=widget widget_gmapdiv class=widgettitleOur Locationdiv
+div id=gmap_widget_1331 class=google_map style=height250px; width100%;div
+script data-cfasync=false src=cdn-cgiscripts5c5dd728cloudflare-staticemail-decode.min.jsscriptscript type=textjavascript src=httpmaps.google.commapsapijssensor=falsescript
+script type=textjavascript
+			jQuery(document).ready(function($) {
+  var map;
+var gmap_marker = true;
+
+
+  var myLatlng = new google.maps.LatLng(1.307152, 103.829139)
+      function initialize() {
+        var mapOptions = {
+          zoom 16,
+          center myLatlng,
+	      panControl true,
+	      scrollwheel true,
+		  zoomControl true,
+		  mapTypeControl true,
+		  scaleControl true,
+		  draggable true,
+	      mapTypeId google.maps.MapTypeId.ROADMAP,
+        };
+        map = new google.maps.Map(document.getElementById('gmap_widget_1331'), mapOptions);
+
+
+if(gmap_marker == true) {
+        var marker = new google.maps.Marker({
+            position myLatlng,
+            map map
+        });
+}
+
+      }
+ 		google.maps.event.addDomListener(window, 'load', initialize);
+			});
+			script
+div class=clearbothdiv
+sectiondiv
+div class=clearbothdiv
+div
+div
+div id=sub-footer
+div class=mk-grid
+span class=mk-footer-copyrightCopyright All Rights Reserved © 2014span
+div
+div class=clearbothdiv
+section
+div
+a href=# class=mk-go-topi class=mk-icon-chevron-upia
+div class=mk-quick-contact-wrapper
+a href=# class=mk-quick-contact-linki class=mk-icon-envelopeia
+div id=mk-quick-contact
+div class=mk-quick-contact-titleContact Usdiv
+pWe would love to hear from you. Please submit your queries here and we will get back to you as soon as we can.p
+form class=mk-contact-form method=post novalidate=novalidate
+input type=text placeholder=Your Name required=required id=contact_name name=contact_name class=text-input value= tabindex=930 
+input type=email required=required placeholder=Your Email id=contact_email name=contact_email class=text-input value= tabindex=931 
+input type=text required=required placeholder=Contact Number id=contact_phone name=contact_phone class=text-input value= tabindex=931 
+textarea placeholder=Type your message... required=required id=contact_content name=contact_content class=textarea tabindex=932textarea
+div class=btn-contbutton type=submit class=mk-contact-button shop-flat-btn shop-skin-btn tabindex=933Sendbuttondiv
+i class=mk-contact-loading mk-moon-loop-4 mk-icon-spini
+i class=mk-contact-success mk-icon-ok-signi
+input type=hidden value=inquiry@translationsingapore.com name=contact_to 
+form
+div class=bottom-arrowdiv
+div
+div
+style type=textcss media=screen
+body {}
+.mk-header-bg {background-imagenone !important;}
+#mk-header {background-color #ffffff !important;background-imageurl(httpartbees.netthemesjupiter-demowp-contentuploads201310homepage-banner-bg.png) !important;border-bottom1px solid #ffffff !important;}
+#theme-page{background-color #fafafa !important;}
+#mk-footer {}
+.page-introduce-title {}
+.page-introduce-subtitle {}
+#mk-boxed-layout {
+		  -webkit-box-shadow 0 0 3px rgba(0, 0, 0, 0.2) !important;
+		  -moz-box-shadow 0 0 3px rgba(0, 0, 0, 0.2) !important;
+		  box-shadow 0 0 3px rgba(0, 0, 0, 0.2) !important;
+
+		}style
+scriptwindow._popup_data = {ajaxurlhttpwww.translationsingapore.comwp-adminadmin-ajax.php,doget_data,ajax_data{orig_request_uri}};scriptlink rel='stylesheet' id='style-name-css' href='httpwww.translationsingapore.comwp-contentpluginshomepage-pop-upcssmlab_popup.cssver=4.8.7' type='textcss' media='all' 
+script type='textjavascript' src='httpwww.translationsingapore.comwp-contentthemesTranslateSingaporejsilightbox.packed.jsver=4.8.7'script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-contentthemesTranslateSingaporejsnicescroll.jsver=4.8.7'script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-contentthemesTranslateSingaporejsplugins.jsver=4.8.7'script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-contentthemesTranslateSingaporejstheme-scripts.jsver=4.8.7'script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-includesjscomment-reply.min.jsver=4.8.7'script
+script type='textjavascript'
+ ![CDATA[ 
+var wpcf7 = {apiSettings{roothttpwww.translationsingapore.comwp-json,namespacecontact-form-7v1},recaptcha{messages{emptyPlease verify that you are not a robot.}}};
+ ]] 
+script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-contentpluginscontact-form-7includesjsscripts.jsver=4.8'script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-contentpluginswordpress-popupincexternalwpmu-libjswpmu-ui.3.min.jsver=4.8.7'script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-contentpluginswordpress-popupjspublic.min.jsver=4.8.7'script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-includesjswp-embed.min.jsver=4.8.7'script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-includesjsjqueryuicore.min.jsver=1.11.4'script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-includesjsjqueryuiwidget.min.jsver=1.11.4'script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-includesjsjqueryuiposition.min.jsver=1.11.4'script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-includesjsjqueryuimenu.min.jsver=1.11.4'script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-includesjswp-a11y.min.jsver=4.8.7'script
+script type='textjavascript'
+ ![CDATA[ 
+var uiAutocompleteL10n = {noResultsNo results found.,oneResult1 result found. Use up and down arrow keys to navigate.,manyResults%d results found. Use up and down arrow keys to navigate.,itemSelectedItem selected.};
+ ]] 
+script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-includesjsjqueryuiautocomplete.min.jsver=1.11.4'script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-includesjsjqueryuitabs.min.jsver=1.11.4'script
+script type='textjavascript'
+ ![CDATA[ 
+var popup_object = {ajax_urlhttpwww.translationsingapore.comwp-contentpluginshomepage-pop-upajaxajax.php};
+ ]] 
+script
+script type='textjavascript' src='httpwww.translationsingapore.comwp-contentpluginshomepage-pop-upjsmlab_popup.jsver=4.8.7'script
+script
+
+function bringtomylanguage()
+	{	
+	}
+	
+jQuery(document).ready(function() {
+		
+	var curl = window.location.href; 	
+	
+	jQuery(#languageswitching option).each(function(){
+        if( jQuery(this).val() == curl ){
+            jQuery(this).attr(selected,selected);    
+        }
+    });
+	
+	jQuery('#languageswitching').change(function(){
+		
+			var nurl = jQuery(this).val();
+			
+			window.location.href = nurl;
+			
+	});
+	
+});
+
+script
+script src=httpwww.translationsingapore.comwp-contentthemesTranslateSingaporejscustom-js.jsscript
+link rel='stylesheet' href='httpwww.translationsingapore.comwp-contentthemesTranslateSingaporecustom.css' media='all' 
+body
+html
